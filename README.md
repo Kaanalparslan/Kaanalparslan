@@ -73,7 +73,7 @@
 ---
 
 ## 📌 GitHub Skyline (3D Commit Grafiği)
-[![GitHub Skyline](https://skyline.github.com/Kaanalparslan/2023)](https://skyline.github.com/Kaanalparslan/2023)
+[![GitHub Skyline](https://skyline.github.com/Kaanalparslan/2023)](https://skyline.github.com/Kaanalparslan/2024)
 
 ---
 
