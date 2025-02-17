@@ -1,17 +1,15 @@
 <h1 align="center">
    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Hello,+I'm+Kaan+Alparslan!;Welcome+to+My+Github+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=500&lines=Hello,+I'm+Kaan+Alparslan!;Welcome+to+My+Github+Profile!" alt="Typing SVG" />
+   </a>
 </h1>
 
 <h3 align="center">
-  👨‍💻 Software Engineer | Full-Stack Developer | Open-Source Contributor
-</h3>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;React+|+Node.js+|+Flutter" alt="Typing SVG" />
   </a>
-</p>
+</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kaanalparslan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
