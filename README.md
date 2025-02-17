@@ -8,16 +8,20 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaanalparslan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=Kaanalparslan&label=Profile%20views&color=0e75b6&style=plastic" alt="profile-views" />
 </p>
 
 ---
 
-## 🔥 About Me
-🚀 **Software Engineer** passionate about **Web & Mobile Development**  
-💡 Currently working on **React, Redux, Flutter, and Node.js**  
-🗣️ Ask me anything about **Frontend, Backend & Cloud** technologies  
-📫 Reach me via: [LinkedIn](https://linkedin.com/in/kaanalparslann) | [Email](mailto:cekaanalparslan@gmail.com)
+## 🔥 About Me  
+
+🚀 **Software Engineer** with a deep passion for **Web & Mobile Development**. Always eager to build **scalable and high-performance applications**.  
+💡 Currently working on **React, Next.js, Flutter, and Node.js** while exploring new technologies in the ever-evolving world of software.  
+🛠️ Love working with **modern frontend & backend stacks**, improving **UX/UI**, and integrating **cloud-based solutions**.  
+💬 Ask me anything about **Frontend, Backend, Cloud, or even AI-related technologies**. I'm always happy to share knowledge!  
+📫 Let's connect: [**LinkedIn**](https://linkedin.com/in/kaanalparslann) | [**Email**](mailto:cekaanalparslan@gmail.com)  
+
+
 
 ---
 
@@ -71,14 +75,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kaanalparslann">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://linkedin.com/in/kaanalparslann" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2&label=" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Kaanalparslan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/Kaanalparslan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=181717&label=" alt="GitHub" />
   </a>
-  <a href="mailto:cekaanalparslan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:cekaanalparslan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335&label=" alt="Email" />
   </a>
 </p>
-
