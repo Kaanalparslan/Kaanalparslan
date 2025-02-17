@@ -1,0 +1,22 @@
+name: Snake Game 🐍
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Her gün gece 00:00'da çalıştırır
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.actor }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Push to GitHub
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake
+          path: dist/github-contribution-grid-snake.svg
