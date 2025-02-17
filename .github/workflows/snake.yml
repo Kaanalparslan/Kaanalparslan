@@ -2,8 +2,8 @@ name: Snake Game 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Her gün gece 00:00'da çalıştırır
-  workflow_dispatch: # Manuel çalıştırma desteği
+    - cron: "0 0 * * *"  # Her gün gece 00:00'da çalıştırır
+  workflow_dispatch:
 
 jobs:
   snake:
@@ -16,7 +16,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Upload Artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3  # v2 yerine v3 kullanıyoruz
         with:
           name: snake
           path: dist/github-contribution-grid-snake.svg
