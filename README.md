@@ -1,5 +1,6 @@
 <h1 align="center">
-  🚀 Welcome to My GitHub Profile! 
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Hello,+I'm+Kaan+Alparslan!;Welcome+to+My+Github+Profile!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -8,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Hello,+I'm+Kaan+Alparslan!;Software+Engineer;Full-Stack+Developer;React+|+Node.js+|+Flutter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;React+|+Node.js+|+Flutter" alt="Typing SVG" />
   </a>
 </p>
 
