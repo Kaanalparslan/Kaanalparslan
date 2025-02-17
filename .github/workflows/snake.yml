@@ -16,7 +16,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Upload Artifacts
-        uses: actions/upload-artifact@v3  # v2 yerine v3 kullanıyoruz
+        uses: actions/upload-artifact@v4  # v4 kullanıyoruz
         with:
           name: snake
           path: dist/github-contribution-grid-snake.svg
