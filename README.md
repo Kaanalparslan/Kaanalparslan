@@ -78,6 +78,6 @@
 ---
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNhM3JrZWR2YWVtN2o2OXdrZnJtcjVrNXkxajE3aGRnN3FzenFjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="600" height="300">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhwamt2OHg1dnRpaDVxdDVpOGcweWtsdzBzeG9wOGZ6MTZjeTRxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kKZfRWzuFy0pxGdnLE/giphy.gif" width="600" height="300">
 </p>
 
