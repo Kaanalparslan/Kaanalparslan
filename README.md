@@ -53,7 +53,7 @@
 ## 📂 Pinned Projects
 
 <a href="https://github.com/Kaanalparslan/MyProject">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=MyProject&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=Weatherapp&theme=radical" />
 </a>
 <a href="https://github.com/Kaanalparslan/AnotherProject">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=AnotherProject&theme=radical" />
