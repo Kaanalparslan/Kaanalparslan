@@ -78,5 +78,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YOUR-GIF-LINK-HERE/giphy.gif" width="400" height="250">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300">
 </p>
