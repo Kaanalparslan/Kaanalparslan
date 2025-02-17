@@ -53,14 +53,15 @@
 ---
 
 ## 📂 Pinned Projects
-<p align="center">
+<div align="center">
   <a href="https://github.com/Kaanalparslan/Weatherapp">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=Weatherapp&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=Weatherapp&theme=react&border_color=2e2e2e&border_radius=10" />
   </a>
-  <a href="https://github.com/Kaanalparslan/AnotherProject">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=AnotherProject&theme=react" />
+  <a href="https://github.com/Kaanalparslan/Basic-Calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=Basic-Calculator&theme=react&border_color=2e2e2e&border_radius=10" />
   </a>
-</p>
+</div>
+
 
 ---
 
