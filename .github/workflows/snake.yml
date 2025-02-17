@@ -5,18 +5,27 @@ on:
     - cron: "0 0 * * *"  # Her gün gece 00:00'da çalıştırır
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
         with:
           github_user_name: ${{ github.actor }}
+          outputs: dist
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v4  # v4 kullanıyoruz
-        with:
-          name: snake
-          path: dist/github-contribution-grid-snake.svg
+      - name: Commit & Push Snake Animation
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Add Snake animation 🐍"
+          git push
