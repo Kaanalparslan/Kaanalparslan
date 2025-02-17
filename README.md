@@ -1,5 +1,7 @@
-<h1 align="center">Hi there 👋, I'm [Kaan Alparslan]</h1>
-<h3 align="center">Software Engineer | Frontend & Backend Developer</h3>
+<h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
+<h3 align="center">👨‍💻 Software Engineer | Full-Stack Developer | Open-Source Contributor</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Kaan+Alparslan!;Software+Engineer;Full-Stack+Developer;React+|+Node.js+|+Flutter)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kaanalparslan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> 
@@ -11,11 +13,11 @@
 - 🎓 I'm a **Software Engineer** with a passion for **web & mobile development**.
 - 🌱 Currently working on **React, Redux, Flutter, and Node.js**.
 - 💬 Ask me anything about **Frontend, Backend & Cloud** technologies.
-- 📫 Reach me via: [LinkedIn](https://linkedin.com/in/kaanalparslann) | [Email](mailto:cekaanalparslan@gmail.com)
+- 📫 Reach me via: [LinkedIn](https://linkedin.com/in/Kaanalparslan) | [Email](mailto:email@example.com)
 
 ---
 
-## 🚀 Technologies & Tools I Use
+## 🛠 Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -32,32 +34,45 @@
 
 ---
 
-## 🏆 GitHub Stats & Achievements
+## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaanalparslan&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kaanalparslan&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaanalparslan&theme=radical" />
+</p>
+<p align="center">
+  <img width="60%" src="https://github-profile-trophy.vercel.app/?username=Kaanalparslan&theme=radical&margin-w=15&no-frame=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaanalparslan&theme=radical" alt="GitHub Streak">
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaanalparslan&theme=radical&margin-w=15&no-frame=true" alt="GitHub Trophies">
-</p>
+## 📂 Pinned Projects
+
+<a href="https://github.com/Kaanalparslan/MyProject">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=MyProject&theme=radical" />
+</a>
+<a href="https://github.com/Kaanalparslan/AnotherProject">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=AnotherProject&theme=radical" />
+</a>
 
 ---
 
 ## 🌎 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/kaanalparslann">
+  <a href="https://linkedin.com/in/Kaanalparslan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/Kaanalaprslan">
+  <a href="https://github.com/Kaanalparslan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="mailto:cekaanalparslan@gmail.com">
+  <a href="mailto:email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/YOUR-GIF-LINK-HERE/giphy.gif" width="400" height="250">
 </p>
