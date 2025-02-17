@@ -1,11 +1,16 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=500&lines=🚀+Welcome+to+My+GitHub+Profile!;👨‍💻+Software+Engineer;Full-Stack+Developer;React+|+Node.js+|+Flutter" alt="Typing SVG" />
-</h1>
+<h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
+<h3 align="center">👨‍💻 Software Engineer | Full-Stack Developer | Open-Source Contributor</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Hello,+I'm+Kaan+Alparslan!;Software+Engineer;Full-Stack+Developer;React+|+Node.js+|+Flutter" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kaanalparslan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-  ![GitHub followers](https://img.shields.io/github/followers/Kaanalparslan?style=flat&logo=github)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/Kaanalparslan/Kaanalparslan)
+  <img src="https://img.shields.io/github/followers/Kaanalparslan?style=flat&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/Kaanalparslan/Kaanalparslan" alt="GitHub last commit" />
 </p>
 
 ---
@@ -19,6 +24,7 @@
 ---
 
 ## 🛠 Technologies & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,flutter,nodejs,express,python,mongodb,graphql,aws" />
 </p>
@@ -26,6 +32,7 @@
 ---
 
 ## 📊 GitHub Stats & Achievements
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kaanalparslan&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaanalparslan&theme=radical" />
