@@ -19,37 +19,46 @@
 🚀 **Software Engineer** passionate about **Web & Mobile Development**  
 💡 Currently working on **React, Redux, Flutter, and Node.js**  
 🗣️ Ask me anything about **Frontend, Backend & Cloud** technologies  
-📫 Reach me via:  
-&nbsp;&nbsp;&nbsp;&nbsp;👉 [LinkedIn](https://linkedin.com/in/Kaanalparslan)  
-&nbsp;&nbsp;&nbsp;&nbsp;👉 [Email](mailto:email@example.com)
+📫 Reach me via: [LinkedIn](https://linkedin.com/in/Kaanalparslan) | [Email](mailto:email@example.com)
 
 ---
 
 ## 🛠 Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,flutter,nodejs,express,python,mongodb,graphql,aws" />
+  <img src="https://skillicons.dev/icons?i=react,next,flutter,dart,nodejs,python,js,mongodb,kotlin,docker" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats & Achievements
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kaanalparslan&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaanalparslan&theme=radical" />
-</p>
-<p align="center">
-  <img width="60%" src="https://github-profile-trophy.vercel.app/?username=Kaanalparslan&theme=radical&margin-w=15&no-frame=true" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kaanalparslan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Kaanalparslan&theme=react&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Kaanalparslan&theme=dark_dimmed&margin-w=5&no-frame=true&column=9" />
+</div>
+
+
 
 ---
 
 ## 📂 Pinned Projects
 <p align="center">
   <a href="https://github.com/Kaanalparslan/Weatherapp">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=Weatherapp&theme=radical" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=Weatherapp&theme=react" />
   </a>
   <a href="https://github.com/Kaanalparslan/AnotherProject">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=AnotherProject&theme=radical" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=AnotherProject&theme=react" />
   </a>
 </p>
 
