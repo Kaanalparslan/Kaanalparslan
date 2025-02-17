@@ -9,8 +9,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kaanalparslan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-  <img src="https://img.shields.io/github/followers/Kaanalparslan?style=flat&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/last-commit/Kaanalparslan/Kaanalparslan" alt="GitHub last commit" />
 </p>
 
 ---
@@ -19,7 +17,7 @@
 🚀 **Software Engineer** passionate about **Web & Mobile Development**  
 💡 Currently working on **React, Redux, Flutter, and Node.js**  
 🗣️ Ask me anything about **Frontend, Backend & Cloud** technologies  
-📫 Reach me via: [LinkedIn](https://linkedin.com/in/Kaanalparslan) | [Email](mailto:email@example.com)
+📫 Reach me via: [LinkedIn](https://linkedin.com/in/kaanalparslann) | [Email](mailto:cekaanalparslan@gmail.com)
 
 ---
 
@@ -73,13 +71,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Kaanalparslan">
+  <a href="https://linkedin.com/in/kaanalparslann">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/Kaanalparslan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="mailto:email@example.com">
+  <a href="mailto:cekaanalparslan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
