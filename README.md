@@ -15,11 +15,11 @@
 
 ## 🔥 About Me  
 
-🚀 **Computer Engineer** with a deep passion for **Web & Mobile Development**. Always eager to build **scalable and high-performance applications**.  
-💡 Currently working on **React, Next.js, Flutter, and Node.js** while exploring new technologies in the ever-evolving world of software.  
-🛠️ Love working with **modern frontend & backend stacks**, improving **UX/UI**, and integrating **cloud-based solutions**.  
-💬 Ask me anything about **Frontend, Backend, Cloud, or even AI-related technologies**. I'm always happy to share knowledge!  
-📫 Reach me: [**LinkedIn**](https://linkedin.com/in/kaanalparslann) | [**Email**](mailto:cekaanalparslan@gmail.com)  
+- 🚀 **Computer Engineer** with a deep passion for **Web & Mobile Development**. Always eager to build **scalable and high-performance applications**.  
+- 💡 Currently working on **React, Next.js, Flutter, and Node.js**, while exploring new technologies in the ever-evolving world of software.  
+- 🛠️ Experienced in **modern frontend & backend stacks**, improving **UX/UI**, and integrating **cloud-based solutions**.  
+- 💬 Open to discussions about **Frontend, Backend, Cloud, and AI-related technologies**. Always happy to share knowledge!  
+- 📫 Reach me: [**LinkedIn**](https://linkedin.com/in/kaanalparslann) | [**Email**](mailto:cekaanalparslan@gmail.com)   
 
 
 
@@ -27,7 +27,7 @@
 
 ## 🛠 Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,flutter,dart,nodejs,python,js,mongodb,kotlin,docker" />
+  <img src="https://skillicons.dev/icons?i=react,next,flutter,dart,kotlin,nodejs,mongodb,js" />
 </p>
 
 ---
