@@ -1,9 +1,9 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Atkinson+Hyperlegible+Mono&size=30&pause=7000&color=76F4F7&background=07FFF400&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Kaan+Alparslan.;Welcome+to+My+Github+Profile!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Atkinson+Hyperlegible+Mono&size=30&pause=7000&color=36BCF7FF&background=07FFF400&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Kaan+Alparslan.;Welcome+to+My+Github+Profile!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Atkinson+Hyperlegible+Mono&size=24&pause=800&color=76F4F7&background=07FFF400&center=true&vCenter=true&width=600&lines=Computer+Engineer;Full-Stack+Developer;React+%7C+Next.js+%7C+Flutter" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Atkinson+Hyperlegible+Mono&size=24&pause=800&color=36BCF7FF&background=07FFF400&center=true&vCenter=true&width=600&lines=Computer+Engineer;Full-Stack+Developer;React+%7C+Next.js+%7C+Flutter" alt="Typing SVG" /></a>
 </h3>
 
 
@@ -15,11 +15,11 @@
 
 ## 🔥 About Me  
 
-🚀 **Software Engineer** with a deep passion for **Web & Mobile Development**. Always eager to build **scalable and high-performance applications**.  
+🚀 **Computer Engineer** with a deep passion for **Web & Mobile Development**. Always eager to build **scalable and high-performance applications**.  
 💡 Currently working on **React, Next.js, Flutter, and Node.js** while exploring new technologies in the ever-evolving world of software.  
 🛠️ Love working with **modern frontend & backend stacks**, improving **UX/UI**, and integrating **cloud-based solutions**.  
 💬 Ask me anything about **Frontend, Backend, Cloud, or even AI-related technologies**. I'm always happy to share knowledge!  
-📫 Let's connect: [**LinkedIn**](https://linkedin.com/in/kaanalparslann) | [**Email**](mailto:cekaanalparslan@gmail.com)  
+📫 Reach me: [**LinkedIn**](https://linkedin.com/in/kaanalparslann) | [**Email**](mailto:cekaanalparslan@gmail.com)  
 
 
 
@@ -71,7 +71,7 @@
 
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Atkinson+Hyperlegible+Mono&size=24&pause=800&color=13F700&background=07FFF400&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo." alt="Typing SVG" /></a>
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhwamt2OHg1dnRpaDVxdDVpOGcweWtsdzBzeG9wOGZ6MTZjeTRxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kKZfRWzuFy0pxGdnLE/giphy.gif" width="400" height="400">
 </p>
 
 <p align="center">
