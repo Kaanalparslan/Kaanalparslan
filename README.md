@@ -18,7 +18,7 @@
 - 🚀 **Computer Engineer** with a deep passion for **Web & Mobile Development**. Always eager to build **scalable and high-performance applications**.  
 - 💡 Currently working on **React, Next.js, Flutter, and Node.js**, while exploring new technologies in the ever-evolving world of software.  
 - 🛠️ Experienced in **modern frontend & backend stacks**, improving **UX/UI**, and integrating **cloud-based solutions**.  
-- 💬 Open to discussions about **Frontend, Backend, Cloud, and AI-related technologies**. Always happy to share knowledge  
+- 💬 Open to discussions about **Frontend, Backend, Cloud, and AI-related technologies**. Always happy to share knowledge!  
 - 📫 Reach me: [**LinkedIn**](https://linkedin.com/in/kaanalparslann) | [**Email**](mailto:cekaanalparslan@gmail.com)   
 
 
