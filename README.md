@@ -59,8 +59,8 @@
   <a href="https://github.com/Kaanalparslan/Weatherapp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=Weatherapp&theme=react&border_color=2e2e2e&border_radius=10" />
   </a>
-  <a href="https://github.com/Kaanalparslan/Basic-Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=Basic-Calculator&theme=react&border_color=2e2e2e&border_radius=10" />
+  <a href="https://github.com/Kaanalparslan/Skyrim-alchemy-guide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanalparslan&repo=Skyrim-alchemy-guide&theme=react&border_color=2e2e2e&border_radius=10" />
   </a>
 </div>
 
