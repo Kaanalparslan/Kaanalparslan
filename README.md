@@ -16,17 +16,13 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaanalparslan&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ### About
 
 I build web and mobile applications with a focus on clean interfaces, reliable backend systems, and practical software solutions.
 
-Currently working with **.NET**, **SQL Server**, **Flutter**, and modern frontend technologies.
+Currently working with **.NET**, **MS SQL**, **Flutter**, **React**, **React Native** and modern frontend technologies.
 
 ---
 
@@ -62,4 +58,8 @@ Currently working with **.NET**, **SQL Server**, **Flutter**, and modern fronten
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kaanalparslan&show_icons=true&hide_border=true&theme=github_dark&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanalparslan&layout=compact&hide_border=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kaanalparslan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
